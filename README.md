@@ -263,8 +263,3 @@ You can check the status by running:
 ```bash
 kubectl get pods
 ```
-
----
-
-### **Conclusion**:
-You’ve successfully built, containerized, and deployed a **Node.js Hello World** application on **Amazon EKS**! You’ve also exposed it to the internet and learned how to scale it. From here, you can explore advanced features like autoscaling, monitoring, and security in Kubernetes.
